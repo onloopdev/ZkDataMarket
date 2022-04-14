@@ -311,8 +311,8 @@ export default function CreatePage() {
                 <Form.Item name="price" noStyle rules={[{ message: 'Please input the goal amount!' }]}>
                   <Input
                     type="number"
-                    suffix={<h1 style={{ fontSize: '14px' }}>ETH</h1>}
-                    placeholder="Please input the goal amount (ETH)..."
+                    suffix={<h1 style={{ fontSize: '14px' }}>ONE</h1>}
+                    placeholder="Please input the goal amount (ONE)..."
                   />
                 </Form.Item>
               </Col>
