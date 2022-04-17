@@ -10,7 +10,7 @@ You can use Chrome to visit DataMarket, make sure you have MetaMask installed.
 
 1.2 Connect Wallet
 
-Visit [https://zkp-datamarket.com/](https://zkp-datamarket.com/), MetaMask will pop up, and remind you to connect. Or you can also click Connect Wallet button on the Bottom Left.
+Visit the demo site, MetaMask will pop up, and remind you to connect. Or you can also click Connect Wallet button on the Bottom Left.
 
 1.3 Wallet Connected
 
@@ -28,17 +28,17 @@ Click the  Published items, and you will see the details of the raised fund and 
 
 **2.3 Participate in the ‘on process’ items**
 
-For ‘on process’ items, you can pay a certain amount of ETH to support the items on the details page:
+For ‘on process’ items, you can pay a certain amount of ONE to support the items on the details page:
 
 - Click ‘Back it’
 
-- Enter the amount of ETH you want to support
+- Enter the amount of ONE you want to support
 
 - Click "Confirm" on the wallet payment page
 
 - Waiting for the transaction confirmation, refresh the page to check the participation status after the transaction is successful
 
-- Before the initiator withdraws the funds, you can click ‘Refund’ to get back the ETH you have paid at any time
+- Before the initiator withdraws the funds, you can click ‘Refund’ to get back the ONE you have paid at any time
 
 **3. How to initiate a crowdfunding for your items**
 
@@ -53,7 +53,7 @@ When the item is uploaded successfully, the browser will automatically download 
 - title: The name of the project, which will be displayed in the Market list
 -Description: the description of the item
 -Extra: record some extra information (contact information, copyright notice, etc.)
--Goal amount: the amount of ETH you want to raise
+-Goal amount: the amount of ONE you want to raise
 
 **3.2  Withdraw Funds**
 
