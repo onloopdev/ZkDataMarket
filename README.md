@@ -37,7 +37,7 @@ Check out Data Market Demo site [here.](http://47.107.250.143/) .
  Refer to the user guide [here](./website/user-guide.md). 
  - - - -
 ## Contract :globe_with_meridians:
- The contract has already been deployed on Harmony testnet.
+ [The contract has already been deployed on Harmony testnet.](https://explorer.pops.one/tx/0x562a5c50d524fd68cd3c4f3c122edd99f1eb3fb45fea756277eba19aefa38677)
  - - - -
 ## Testing Guide :rocket:
  Refer to the  unit tests docs included in each sub-module 
